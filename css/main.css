@@ -1,0 +1,20 @@
+/*@import url("../node_modules/bootstrap/dist/css/bootstrap.css");*/
+
+body {
+    background-color: #fff;
+}
+
+.keyword-container input {
+    margin-bottom:20px;
+    padding: 2px 10px;
+    width: 100%;
+    font-size: 20px;
+}
+
+.glyphicon {
+    cursor: pointer;
+}
+
+.twitter-control {
+    margin-bottom:20px;
+}
